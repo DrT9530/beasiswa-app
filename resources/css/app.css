@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Warna khusus dari poster untuk website beasiswa */
+  --color-primary: #0F3066; /* Biru Dongker / Navy */
+  --color-accent: #F4B942;  /* Kuning Emas */
+  --color-light: #E5E7EB;   /* Abu-abu terang */
+
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+}
