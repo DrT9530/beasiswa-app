@@ -11,11 +11,11 @@
 
     <h2 style="color: #2563EB;">Halo, Calon Pemimpin Masa Depan!</h2>
     <p>Terima kasih telah mendaftar di <strong>Future Leader Scholarship 2026</strong> oleh PT. Global Tech Solution.</p>
-    <p>Kami telah menerima data pendaftaran Anda dengan baik. Tim seleksi kami akan segera meninjau berkas yang Anda kirimkan.</p>
-    <p>Pantau terus kotak masuk email Anda untuk informasi tahap seleksi selanjutnya.</p>
+    <p>Kami telah menerima data pendaftaran anda dengan baik. Tim seleksi kami akan segera meninjau data yang anda kirimkan.</p>
+    <p>Pantau terus kotak masuk email anda untuk informasi tahap seleksi selanjutnya.</p>
     <br>
     <p>Salam hangat,</p>
-    <p><strong>Panitia Seleksi Global Tech Solution</strong></p>
+    <p><strong>PT. Global Tech Solution</strong></p>
 
 </body>
 </html>
